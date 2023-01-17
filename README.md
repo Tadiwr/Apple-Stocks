@@ -16,4 +16,4 @@
 
 <image src="./results.png">
 
-Author : [Tadiwanashe Shangwa]("https://github.com/tadiwr)
+Author : [Tadiwanashe Shangwa](https://github.com/tadiwr)
